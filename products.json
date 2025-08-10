@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Ocean Blue Bottle",
+    "price": 24.99,
+    "image": "https://via.placeholder.com/150/2196f3/ffffff?text=Blue+Bottle"
+  },
+  {
+    "id": 2,
+    "name": "Forest Green Bottle",
+    "price": 24.99,
+    "image": "https://via.placeholder.com/150/4caf50/ffffff?text=Green+Bottle"
+  },
+  {
+    "id": 3,
+    "name": "Sunset Orange Bottle",
+    "price": 26.99,
+    "image": "https://via.placeholder.com/150/ff9800/ffffff?text=Orange+Bottle"
+  }
+]
